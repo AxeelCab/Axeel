@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1542075586 source:c:\users\axel\desktop\tp-iv\punto4.\jugadores.c
+	<stdio.h>
+	<string.h>
+	"equipos.h"
+	"jugadores.h"
+
+1542074943 source:c:\users\axel\desktop\tp-iv\punto4.\main.c
+	<stdio.h>
+	"equipos.h"
+
+1542073388 c:\users\axel\desktop\tp-iv\punto4.\equipos.h
+
+1542075437 source:c:\users\axel\desktop\tp-iv\punto4.\equipos.c
+	<stdio.h>
+	<string.h>
+	"equipos.h"
+	"jugadores.h"
+
+1542073388 c:\users\axel\desktop\tp-iv\punto4.\jugadores.h
+

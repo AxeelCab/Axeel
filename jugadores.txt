@@ -1,0 +1,16 @@
+---------------
+Nombre :Axel
+Apellido: Recupero
+Codigo de su equipo: 0
+---------------
+Nombre :Leito
+Apellido: Rindis
+Codigo de su equipo: 0
+---------------
+Nombre :Echelito
+Apellido: Beltry
+Codigo de su equipo: 0
+---------------
+Nombre :Gramigo
+Apellido: Miguez
+Codigo de su equipo: 0
