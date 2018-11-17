@@ -30,5 +30,5 @@ Player CrearPlayer(){
 
 void MostrarPlayer(Player j)
 {
-    printf("Nombre: %s\nApellido: %s\n",j->nombre,j->apellido);
+    printf("Nombre: %s\nApellido: %s\nCodigo equipo: %d\n",j->nombre,j->apellido,j->codeTeam);
 }
